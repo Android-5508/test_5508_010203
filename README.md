@@ -18,6 +18,26 @@
 #### ارتباط با من:
 
 - LinkedIn: [نام شما در LinkedIn](لینک به پروفایل LinkedIn شما)
-- GitHub: [نام کاربری شما در GitHub](لینک به پروفایل GitHub شما)
+- GitHub: [نام کار بیفبری شما در GitHub](لینک به پروفایل GitHub شما)
 
 ![آواتار یا عکس پروفایل شما](لینک به آواتار یا عکس پروفایل شما)
+
+
+
+
+<div style="text-align:center">
+  <svg width="100" height="100" viewBox="0 0 100 100">
+    <text x="50" y="50" font-size="20" text-anchor="middle" alignment-baseline="middle">
+      <animateTransform
+        attributeName="transform"
+        attributeType="XML"
+        type="rotate"
+        from="0 50 50"
+        to="360 50 50"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+      0
+    </text>
+  </svg>
+</div>
