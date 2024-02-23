@@ -25,6 +25,7 @@
 
 
 
+
 <div style="text-align:center">
   <svg width="100" height="100" viewBox="0 0 100 100">
     <text x="50" y="50" font-size="20" text-anchor="middle" alignment-baseline="middle">
@@ -37,7 +38,8 @@
         dur="5s"
         repeatCount="indefinite"
       />
-      65
+      55
     </text>
+    <circle cx="50" cy="50" r="40" fill="red" opacity="0.8"/>
   </svg>
 </div>
