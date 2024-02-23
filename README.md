@@ -37,7 +37,7 @@
         dur="5s"
         repeatCount="indefinite"
       />
-      0
+      65
     </text>
   </svg>
 </div>
